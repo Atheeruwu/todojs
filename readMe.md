@@ -1,4 +1,4 @@
-### Shortened JavaScript (5 key lines):
+
 
 ```javascript
 document.addEventListener('DOMContentLoaded', loadTodosFromStorage);
@@ -24,4 +24,10 @@ function loadTodosFromStorage() { (JSON.parse(localStorage.getItem('todos')) || 
 4. **Check & Delete**: Toggles checkmark or deletes todo on button clicks.
 5. **Saving Todos**: Saves the todo list to `localStorage` after each change.
 
-This provides a streamlined version of your script that highlights the most essential operations while keeping the code simple and clear.
+![first one for todo](https://github.com/user-attachments/assets/af34ec1d-2301-4f14-96f9-2fbd7816e918)
+
+![first two for todo](https://github.com/user-attachments/assets/0d2d5d33-fc90-4f80-86b6-089983596653)
+
+
+
+
